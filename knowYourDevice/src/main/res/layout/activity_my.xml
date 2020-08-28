@@ -7,7 +7,7 @@
         android:id="@+id/button01"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="获取设备信息"
+        android:text="@string/button_desc"
         android:textSize="25sp" />
 
     <ScrollView

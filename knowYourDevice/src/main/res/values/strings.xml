@@ -3,4 +3,7 @@
 
     <string name="app_name">KnowYourDevice</string>
 
+
+    <string name="button_desc">获取设备信息&#038;存入剪切板</string>
+
 </resources>

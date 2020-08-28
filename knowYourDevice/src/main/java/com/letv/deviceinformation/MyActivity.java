@@ -20,6 +20,7 @@ public class MyActivity extends Activity {
     private static final String TAG = MyActivity.class.getSimpleName();
 
 
+
     private static final int REQUEST_READ_PHONE_STATE = 0x1001;
 
     private TextView textView01;
